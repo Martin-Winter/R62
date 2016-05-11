@@ -1,5 +1,5 @@
 # R62
-R62 esoteric programming language by Martin Winter.
+R62 is esoteric programming language by Martin Winter.
 
 
 + **"H"** - print *"Hello, world!"*
